@@ -1,0 +1,55 @@
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe.config
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csprojResolveAssemblyReference.cache
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form1.resources
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Properties.Resources.resources
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.GenerateResource.Cache
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\andri\source\repos\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form2.resources
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe.config
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form1.resources
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form2.resources
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Properties.Resources.resources
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.GenerateResource.Cache
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\andri\Desktop\учеба\Проектирование информационных систем\игра\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe.config
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csprojAssemblyReference.cache
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form1.resources
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form2.resources
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Properties.Resources.resources
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.GenerateResource.cache
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\ruletka_33__33__33__33__33__33__33__33__33__33__33__33__33__33\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe.config
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csprojAssemblyReference.cache
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form1.resources
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form2.resources
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Properties.Resources.resources
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.GenerateResource.cache
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\Bahtiyorovich\Desktop\ДЗ\ПИС\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe.config
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\bin\Debug\рулетка!!!!!!!!!!!!!!.pdb
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csprojAssemblyReference.cache
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form1.resources
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Form2.resources
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка______________.Properties.Resources.resources
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.GenerateResource.cache
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.exe
+C:\Users\Bahtiyorovich\Desktop\pis\pis\Gamr rulette\рулетка!!!!!!!!!!!!!!\obj\Debug\рулетка!!!!!!!!!!!!!!.pdb
